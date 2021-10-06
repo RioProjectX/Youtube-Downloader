@@ -1,4 +1,6 @@
-# Youtube Dl bot 😉
+# Youtube Downloader bot 
+
+## Bot Ini Bisa Mendownload Dari Youtube Via telegram
 ## Prerequisite
     ffmpeg
   
@@ -16,4 +18,8 @@
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioprojectx/Youtube-Downloader/tree/master)
+
+## Join
+* [Channel](t.me/rioprojects)
+* [Group](t.me/riogroupsupport)
